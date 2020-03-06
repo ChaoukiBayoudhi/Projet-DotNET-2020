@@ -51,4 +51,4 @@ Chaque tâche est caractérisée par son nom, sa date de debut, sa date de fin, 
  * SQL Server Reporting Services (SSRS) ou R et
 * La bibliothèque ML.NET.
 
-Hard Luck
+Best of Luck
